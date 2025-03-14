@@ -9,8 +9,8 @@ from gtts import gTTS
 import pygame
 import time
 
-API_KEY_GEMINI = "AIzaSyApcJKYQtu6-sJ6L2szBwu5Hbx7KeQ248g"
-API_KEY_ELEVENLABS = "sk_7f77d96af89929d8da7f9bfe12ae59d181afd6a2c2df8ab8"
+API_KEY_GEMINI = ""
+API_KEY_ELEVENLABS = ""
 
 # Load Vosk model
 model = vosk.Model("model")
